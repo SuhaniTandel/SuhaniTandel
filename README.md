@@ -1,99 +1,72 @@
-# Hi 👋, I'm Suhani Tandel
+<h1 align="center">Hi 👋, I'm Suhani Tandel</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1500&color=00D9FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Full+Stack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
+</p>
 
-### Frontend Developer | Full Stack Developer | MERN Stack Developer
 
-Passionate about building modern, responsive, and user-friendly web applications.
+<p align="center">
+  Passionate about building responsive, user-friendly, and modern web applications.
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-💻 Frontend Developer with a strong interest in Full Stack Development
-
-🚀 Skilled in creating responsive and interactive web applications
-
-🌐 Interested in MERN Stack Development and modern web technologies
-
-🎯 Focused on writing clean, maintainable, and scalable code
-
-📍 Open to Frontend Developer, Web Developer, and MERN Stack opportunities
+- 🌱 Currently learning **React.js, Node.js, Express.js & MongoDB**
+- 💻 Interested in **Frontend Development, Full Stack Development & MERN Stack**
+- 🚀 Building projects to improve my development skills
+- 📫 Reach me: your-email@example.com
 
 ---
 
 ## 🚀 Tech Stack
 
-### Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Tailwind CSS
-* Bootstrap
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Figma
-* Postman
-
----
-
-## 🛠️ Skills
-
-✔ Responsive Web Design
-
-✔ UI Development
-
-✔ Single Page Applications (SPA)
-
-✔ REST API Integration
-
-✔ Version Control (Git & GitHub)
-
-✔ Problem Solving
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuhaniTandel\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaniTandel\&layout=compact\&theme=tokyonight)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuhaniTandel\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaniTandel&theme=github-dark" alt="GitHub Streak" />
+</p>
+
 
 ---
 
-## 🎯 Career Goal
+## 🤝 Connect With Me
+<p align="center">
 
-To build impactful web applications and grow as a Full Stack MERN Developer while contributing to innovative and user-focused products.
+<a href="https://www.linkedin.com/in/suhanitandel/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
-
-## 📫 Connect With Me
-
-GitHub: https://github.com/SuhaniTandel
-
-LinkedIn: https://www.linkedin.com/in/suhanitandel/
-
-Portfolio: Add Your Portfolio Link Here
+<a href="mailto:tandelsuhani1608@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 💡 Current Focus
+
+✔ Frontend Development  
+✔ React.js  
+✔ Full Stack Development  
+✔ MERN Stack Development  
+✔ Building Real-World Projects
+
+---
+
+⭐ From [SuhaniTandel](https://github.com/SuhaniTandel)
