@@ -15,7 +15,6 @@
 - 🌱 Currently learning **React.js, Node.js, Express.js & MongoDB**
 - 💻 Interested in **Frontend Development, Full Stack Development & MERN Stack**
 - 🚀 Building projects to improve my development skills
-- 📫 Reach me: your-email@example.com
 
 ---
 
